@@ -9,7 +9,7 @@ using namespace std;
 int main(){
     int num=0, tabla=0, numtabla=0;
     char contin='s';
-    while(contin!='n'){//con esto comprobamos el caracter introducido si es n este bucle parara
+    while(contin=='s'){//con esto comprobamos el caracter introducido si es n este bucle parara
         cout<<"Introduce un numero: ";
         cin>>num;
         for(tabla=1;tabla<=10;tabla++){//con este for hacemos la tabla de una sola vez y no se hace uno por uno la multiplicacion
