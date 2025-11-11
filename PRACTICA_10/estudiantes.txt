@@ -1,0 +1,4 @@
+Nombre: Pipo
+Edad: 10
+Promedio: 10
+---
